@@ -110,9 +110,9 @@ Follow these steps to set up and run the project locally:
 ## 👤 Author
 
 **Your Name**  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)  
-- 💻 **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
-- 📧 **Email**: youremail@example.com  
+- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/negar-pirasteh/)  
+- 💻 **GitHub**: [Your GitHub Profile](https://github.com/negarprh)  
+- 📧 **Email**: negarprh@hotmail.com  
 
 ---
 
