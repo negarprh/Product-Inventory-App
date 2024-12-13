@@ -76,13 +76,15 @@ Follow these steps to set up and run the project locally:
 ## 📸 Screenshots
 
 ### Customer Management  
-![Customer Management](https://via.placeholder.com/600x300?text=Customer+Management)
+![Customer Management](CustomerManagment.png)
+
+### Stock Management  
+![Search Products](StockManagment.png)
 
 ### Product Management  
-![Product Management](https://via.placeholder.com/600x300?text=Product+Management)
+![Product Management](ProductManagment.png)
 
-### Search Products  
-![Search Products](https://via.placeholder.com/600x300?text=Search+Products)
+
 
 ---
 
