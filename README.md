@@ -76,7 +76,7 @@ Follow these steps to set up and run the project locally:
 ## 📸 Screenshots
 
 ### Customer Management  
-![Customer Management](CustomerManagment.png)
+![Customer Management](CustomerManagement.png)
 
 ### Stock Management  
 ![Search Products](StockManagment.png)
