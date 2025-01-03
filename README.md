@@ -110,8 +110,8 @@ Follow these steps to set up and run the project locally:
 ## 👤 Author
 
 **Your Name**  
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/negar-pirasteh/)  
-- 💻 **GitHub**: [Your GitHub Profile](https://github.com/negarprh)  
+- 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/negar-pirasteh/)  
+- 💻 **GitHub**: [My GitHub Profile](https://github.com/negarprh)  
 - 📧 **Email**: negarprh@hotmail.com  
 
 ---
